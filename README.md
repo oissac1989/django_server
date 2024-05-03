@@ -44,6 +44,10 @@ python manage.py runserver
 
 6. Acesse o projeto em seu navegador web em [http://localhost:8000/](http://localhost:8000/)
 
+```note
+Obs: é importante criar o arquivo .env com as configurações locais do projeto como o secret key e hosts de acesso.
+```
+
 ### Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
